@@ -3,8 +3,7 @@ import os
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 from google.oauth2.credentials import Credentials
-
-VIDEO_FILE = "video.mp4"
+VIDEO_FILE = "721.mp4"
 
 credentials = Credentials(
     token=None,
