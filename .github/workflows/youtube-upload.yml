@@ -1,4 +1,5 @@
 
+
 name: Tiny Toons YouTube Automation
 
 on:
@@ -7,7 +8,7 @@ on:
       video_path:
         description: "Video file path"
         required: true
-        default: "videos/video.mp4"
+        default: "721.mp4"
 
 permissions:
   contents: read
