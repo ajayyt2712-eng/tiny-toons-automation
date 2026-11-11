@@ -81,4 +81,4 @@ except Exception as error:
     print("Error type:", type(error).__name__)
     print("Error details:", str(error))
     traceback.print_exc()
-    sys.exit(1)
+    sys.exit(13)
